@@ -12,25 +12,19 @@ export default function Home() {
   const links = [
 {
       name: "LinkedIn",
-      url: "https://www.linkedin.com/",
+      url: "www.linkedin.com/in/alvin-suryanto-a3a39b299",
       icon: <FaLinkedinIn />,
       target: "_blank",
     },
     {
-      name: "GitHub",
-      url: "https://github.com/nermalcat69",
+      name: "SDBS Studio",
+      url: "https://sdbsstudio.my.id/",
       icon: <FaGithubAlt />,
       target: "_blank",
     },
     {
-      name: "Twitter",
-      url: "https://twitter.com/JsAditya",
-      icon: <FaTwitter />,
-      target: "_blank",
-    },
-    {
       name: "Instagram",
-      url: "http://instagram.com/arjun.t17/",
+      url: "http://instagram.com/bosincd",
       icon: <FaInstagram />,
       target: "_blank",
     },
@@ -77,7 +71,7 @@ export default function Home() {
         <div className='mt-6 max-w-md mx-auto'>
           <div className='embed-container'>
           <iframe className='rounded-2xl p-2' 
-             width="100%" height="100%" src="https://open.spotify.com/embed/playlist/7x1Mud6oTcl7TLGHDaRhiY?utm_source=generator&theme=0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+             width="100%" height="100%" src="https://open.spotify.com/embed/track/3vZk7OAUjMtVDNC852aNqi?utm_source=generator" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
         </div>
       </div>
     </div>
